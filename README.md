@@ -10,4 +10,4 @@
   python3 manage.py runserver
 ```
 
-Open [http://localhost:800](http://localhost:800) with your browser to see the result.
+Open [http://localhost:8000](http://localhost:8000) with your browser to see the result.
